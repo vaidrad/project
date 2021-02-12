@@ -1,3 +1,7 @@
 some code
 
+<<<<<<< HEAD
 another update 1b
+=======
+update 1
+>>>>>>> dev
